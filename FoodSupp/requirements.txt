@@ -78,7 +78,7 @@ mccabe==0.6.1
 mistune==0.8.4
 multiaddr==0.0.8
 murmurhash==1.0.2
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbformat==4.4.0
 netaddr==0.7.19
 networkx==2.4
