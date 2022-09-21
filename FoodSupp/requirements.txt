@@ -115,7 +115,7 @@ Pyrebase4==4.3.0
 pyrsistent==0.15.4
 PySocks==1.7.1
 python-dateutil==2.8.0
-python-jwt==2.0.1
+python-jwt==3.3.4
 pytz==2019.2
 PyWavelets==1.1.1
 pywin32==225
